@@ -1,6 +1,5 @@
 # WordPress Casdoor 插件
 
-![Plugin Logo](https://via.placeholder.com/150) <!-- 替换为您的插件 Logo -->
 
 一个用于将 WordPress 用户系统与 [Casdoor](https://casdoor.org/) 集成的插件。通过此插件，用户可以使用 Casdoor 作为身份提供商（IdP）登录 WordPress 网站。
 
@@ -43,4 +42,4 @@
 
 1. 克隆仓库：
    ```bash
-   git clone https://gitee.com/bscloud-net/wp-casdoor.git
+   git clone https://github.com/bscloud-net/bs_wp_casdooor.git
